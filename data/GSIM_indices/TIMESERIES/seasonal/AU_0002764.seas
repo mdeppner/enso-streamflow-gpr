@@ -1,0 +1,62 @@
+##################################################
+# 
+# SEASONAL GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0002764                : [-]
+# river     : RUFUS RIVER               : [-]
+# station   : DOWNSTREAM FISHERMANS HUT : [-]
+# country   : AU                        : [-]
+# latitude  : -34.0450999999996         : [deg]
+# longitude : 141.2622                  : [deg]
+# altitude  :                           : [m]
+# area      :                           : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"n.missing",	"n.available"
+2007-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+2007-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2007-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2007-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2008-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2008-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2008-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2008-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2009-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+2009-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2009-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2009-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2010-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+2010-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2010-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2010-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2011-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+2011-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2011-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2011-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2012-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2012-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2012-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2012-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2013-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+2013-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2013-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2013-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2014-02-28,	28.059935483871,	8.66738810305805,	0.308888383155411,	9.4,	11.823,	46.014,	24.1734285714286,	36.9022857142857,	18.856,	22.055,	23.601,	25.118,	27.628,	29.533,	31.108,	35.295,	39.588,	59,	31
+2014-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2014-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2014-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2015-02-28,	39.8639259259259,	8.1060478083481,	0.203342937758076,	8.51900000000001,	19.531,	51.967,	28.1887142857143,	47.6197142857143,	27.3668,	32.808,	38.8832,	40.619,	42.041,	43.2816,	45.6018,	46.3834,	47.1276,	63,	27
+2015-05-31,	14.7144666666667,	6.86505050341324,	0.466551092807526,	8.235,	5.698,	33.756,	8.20971428571429,	29.9424285714286,	7.4364,	9.1536,	10.4426,	11.3242,	12.314,	14.7386,	16.9674,	19.546,	26.1772,	17,	75
+2015-08-31,	18.6991758241758,	10.5500707176075,	0.564199770984962,	14.1495,	4.92,	50.948,	7.46385714285714,	40.4868571428571,	8.774,	9.923,	11.814,	12.679,	13.988,	18.417,	23.02,	27.73,	34.52,	1,	91
+2015-11-30,	26.2742105263158,	18.2902070750373,	0.696127750697519,	36.352,	5.443,	62.175,	9.64285714285714,	55.5462857142857,	10.063,	11.7538,	13.229,	14.5082,	15.711,	19.5688,	34.4316,	50.8722,	53.2738,	34,	57
+2016-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2016-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2016-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2016-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0

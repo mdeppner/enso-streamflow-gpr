@@ -1,0 +1,70 @@
+##################################################
+# 
+# MONTHLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0002253     : [-]
+# river     : FLAHERTY BROOK : [-]
+# station   : AT ROELANDS    : [-]
+# country   : AU             : [-]
+# latitude  : -33.29602291   : [deg]
+# longitude : 115.83066476   : [deg]
+# altitude  :                : [m]
+# area      :                : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"n.missing",	"n.available"
+1967-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1967-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+1967-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1967-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1967-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1967-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1967-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1967-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1967-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1967-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1967-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1967-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1968-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1968-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	29,	0
+1968-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1968-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1968-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1968-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1968-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1968-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1968-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1968-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1968-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1968-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1969-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1969-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+1969-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1969-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1969-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1969-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1969-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1969-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1969-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1969-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1969-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1969-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1970-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1970-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+1970-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1970-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1970-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1970-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1970-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1970-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1970-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1970-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1970-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1970-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0

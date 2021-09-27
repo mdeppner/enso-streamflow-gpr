@@ -1,0 +1,50 @@
+##################################################
+# 
+# SEASONAL GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0002465              : [-]
+# river     : LIEGE STREET WETLANDS   : [-]
+# station   : AT LIEGE STREET OUTFLOW : [-]
+# country   : AU                      : [-]
+# latitude  : -32.022321261           : [deg]
+# longitude : 115.934471819           : [deg]
+# altitude  :                         : [m]
+# area      :                         : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"n.missing",	"n.available"
+2005-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+2005-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2005-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2005-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2006-02-28,	0.00751612903225806,	0.00609149349229598,	0.810456215713199,	0.00675,	0,	0.029,	0,	0.0177142857142857,	0,	0.000200000000000001,	0.004,	0.006,	0.008,	0.009,	0.01,	0.011,	0.013,	28,	62
+2006-05-31,	0.0105348837209302,	0.00446870865520943,	0.424182057779261,	0.004,	0.005,	0.025,	0.00514285714285714,	0.0171428571428571,	0.007,	0.008,	0.008,	0.009,	0.009,	0.01,	0.011,	0.013,	0.0175,	6,	86
+2006-08-31,	0.015046511627907,	0.0056482339775666,	0.375384947504426,	0.0055,	0.009,	0.032,	0.00985714285714286,	0.0137142857142857,	0.01,	0.011,	0.012,	0.012,	0.013,	0.015,	0.016,	0.0186,	0.0228,	49,	43
+2006-11-30,	0.0193488372093023,	0.00572747646969968,	0.296011404083036,	0.0085,	0.01,	0.031,	0.0112857142857143,	0.0274285714285714,	0.012,	0.0144,	0.016,	0.0178,	0.018,	0.021,	0.022,	0.0246,	0.028,	48,	43
+2007-02-28,	0.00403508771929825,	0.00339098022217292,	0.840373359408072,	0.004,	0.001,	0.017,	0.001,	0.00971428571428571,	0.001,	0.001,	0.002,	0.002,	0.003,	0.004,	0.005,	0.0068,	0.008,	33,	57
+2007-05-31,	0.00344444444444444,	0.00477282664820717,	1.3856593494795,	0.004,	0,	0.019,	0,	0.006,	0,	0,	0,	0.001,	0.0015,	0.002,	0.003,	0.00640000000000001,	0.01,	38,	54
+2007-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2007-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2008-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2008-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2008-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2008-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2009-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+2009-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2009-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2009-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2010-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+2010-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2010-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2010-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2011-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+2011-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2011-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2011-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0

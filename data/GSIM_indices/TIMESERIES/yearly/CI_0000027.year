@@ -1,0 +1,37 @@
+##################################################
+# 
+# YEARLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : CI_0000027 : [-]
+# river     : COMOE      : [-]
+# station   : KAFOLO     : [-]
+# country   : CI         : [-]
+# latitude  : 9.59       : [deg]
+# longitude : -4.29      : [deg]
+# altitude  :            : [m]
+# area      : 21300      : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"GINI",	"CT",	"DOYMIN",	"DOYMAX",	"DOYMIN7",	"DOYMAX7",	"n.missing",	"n.available"
+1979-12-31,	83.6854599406528,	156.574326815476,	1.87098603421088,	64,	0,	632,	0,	619.285714285714,	0,	0,	3,	6.40000000000001,	15,	26,	47,	86.8,	357.600000000001,	0.771514405296087,	259,	38,	260,	44,	264,	28,	337
+1980-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1981-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1982-12-31,	23.0833333333333,	35.0501078731508,	1.51841622555166,	32.25,	0,	133,	0,	123.857142857143,	0,	0,	0.90000000000002,	2,	5.5,	11,	23,	40,	75.7,	0.70807272709265,	250,	12,	259,	18,	261,	41,	324
+1983-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1984-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1985-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1986-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1987-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1988-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1989-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1990-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1991-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1992-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1993-12-31,	50.8468994413408,	106.801734142521,	2.10045716289412,	31.4625,	0,	488,	0,	435.857142857143,	0.09,	0.414,	0.94,	1.956,	4.27,	10.34,	24.87,	39.9,	202.1,	0.8075547188839,	253,	54,	240,	60,	245,	7,	358

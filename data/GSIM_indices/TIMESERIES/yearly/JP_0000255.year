@@ -1,0 +1,35 @@
+##################################################
+# 
+# YEARLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : JP_0000255                        : [-]
+# river     : Yoshida River                     : [-]
+# station   : Kashimadai (Kashimadai (Yoshida)) : [-]
+# country   : JP                                : [-]
+# latitude  : 38.435                            : [deg]
+# longitude : 141.1161                          : [deg]
+# altitude  :                                   : [m]
+# area      :                                   : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"GINI",	"CT",	"DOYMIN",	"DOYMAX",	"DOYMIN7",	"DOYMAX7",	"n.missing",	"n.available"
+1976-12-31,	18.2665573770492,	41.4813538986683,	2.27089062500562,	10.24,	0.24,	278.87,	0.862857142857143,	148.042857142857,	1.385,	2.11,	2.63,	3.3,	4.205,	6.3,	10.91,	15.31,	35.315,	0.739790474778086,	247,	186,	220,	30,	250,	0,	366
+1977-12-31,	7.8892602739726,	20.0203581894461,	2.53767241720939,	4.58,	0.1,	287.87,	0.744285714285714,	71.66,	1.338,	1.994,	2.944,	3.606,	4.14,	4.86,	5.97,	8.388,	12.346,	0.583007986229346,	207,	149,	263,	153,	267,	0,	365
+1978-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1979-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1980-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1981-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1982-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1983-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1984-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1985-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1986-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1987-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1988-12-31,	12.8759289617486,	15.9529587442678,	1.23897536182906,	8.4025,	3.01,	158.71,	3.38428571428571,	62.9585714285714,	4.095,	4.71,	5.5,	6.58,	8.125,	10.04,	12.01,	15.39,	24.62,	0.458523335647446,	211,	7,	244,	8,	246,	0,	366

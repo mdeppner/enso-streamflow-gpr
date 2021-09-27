@@ -1,0 +1,46 @@
+##################################################
+# 
+# MONTHLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0002612          : [-]
+# river     :                     : [-]
+# station   : MOOCHALABRA CREEK - : [-]
+# country   : AU                  : [-]
+# latitude  : -15.62649606        : [deg]
+# longitude : 128.10099266        : [deg]
+# altitude  :                     : [m]
+# area      :                     : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"n.missing",	"n.available"
+1964-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1964-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	29,	0
+1964-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1964-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1964-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1964-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1964-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1964-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1964-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1964-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1964-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1964-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1965-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1965-02-28,	0,	0,	NA,	0,	0,	0,	NA,	NA,	26,	2
+1965-03-31,	0.0800457759793383,	0.222818248365693,	2.78363530916619,	0.0342714285714285,	0,	1.0861,	0,	0.242906021131857,	4,	27
+1965-04-30,	0.0220386144849303,	0.110388814731126,	5.00888178821805,	0,	0,	0.605666666666667,	0,	0.153576238266474,	0,	30
+1965-05-31,	0,	0,	NA,	0,	0,	0,	0,	0,	15,	16
+1965-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1965-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1965-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1965-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1965-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1965-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1965-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0

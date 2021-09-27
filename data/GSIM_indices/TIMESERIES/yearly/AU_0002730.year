@@ -1,0 +1,27 @@
+##################################################
+# 
+# YEARLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0002730                              : [-]
+# river     : RIVER MURRAY                            : [-]
+# station   : AT LOXTON IRRIGATION PS (AMTD 493.9 KM) : [-]
+# country   : AU                                      : [-]
+# latitude  : -34.4173544399997                       : [deg]
+# longitude : 140.59107394                            : [deg]
+# altitude  :                                         : [m]
+# area      :                                         : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"GINI",	"CT",	"DOYMIN",	"DOYMAX",	"DOYMIN7",	"DOYMAX7",	"n.missing",	"n.available"
+1998-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1999-12-31,	83.5842352941176,	10.4033528281115,	0.124465490310512,	8.875,	61.547,	95.146,	80.893,	88.9231428571429,	65.9784,	76.5262,	83.6998,	86.354,	87.115,	88.0644,	89.5508,	90.922,	92.5796,	0.0631438918052294,	335,	344,	327,	342,	338,	348,	17
+2000-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+2001-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+2002-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0

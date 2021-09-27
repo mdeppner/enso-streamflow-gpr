@@ -1,0 +1,154 @@
+##################################################
+# 
+# SEASONAL GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0000824                          : [-]
+# river     : JACKSON CREEK                       : [-]
+# station   : AT ROSSLYNNE RESERVOIR (HEAD GAUGE) : [-]
+# country   : AU                                  : [-]
+# latitude  : -37.47624978                        : [deg]
+# longitude : 144.5674395                         : [deg]
+# altitude  :                                     : [m]
+# area      :                                     : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"n.missing",	"n.available"
+1983-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1983-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1983-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1983-11-30,	6.04992307692308,	15.4375144289354,	2.55168772109195,	2.436,	0,	56.388,	0.213857142857143,	11.0927142857143,	0.0678,	0.1762,	0.2128,	0.3432,	0.497,	0.7908,	1.7332,	4.3492,	9.738,	78,	13
+1984-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1984-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1984-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1984-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1985-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1985-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1985-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1985-11-30,	3.75185,	13.2226197789402,	3.52429328969448,	0.59575,	0,	59.183,	0,	10.7195714285714,	0,	0,	0,	0,	0,	0,	0.2456,	1.263,	3.21680000000001,	71,	20
+1986-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1986-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1986-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1986-11-30,	0.624027027027027,	2.03676845744656,	3.26391064686746,	0.052,	0,	11.779,	0,	3.207,	0,	0,	0,	0,	0,	0,	0,	0.3294,	1.5196,	54,	37
+1987-02-28,	2.6105,	3.48360122574327,	1.33445747011809,	3.73625,	0.004,	8.7,	0.000571428571428571,	2.23757142857143,	0.089,	0.174,	0.3445,	0.515,	0.9645,	1.414,	3.135,	4.856,	6.778,	84,	6
+1987-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1987-08-31,	0.188703703703704,	0.240236568126647,	1.27308878104406,	0.37275,	0,	0.753,	0,	0.636428571428571,	0,	0,	0,	0,	0,	0.2514,	0.3616,	0.3798,	0.5318,	38,	54
+1987-11-30,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	35,	56
+1988-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1988-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1988-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1988-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1989-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1989-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1989-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1989-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1990-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1990-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1990-08-31,	1.12948275862069,	4.43580069773759,	3.92728500181316,	0.106,	0,	23.571,	0,	4.65471428571429,	0,	0,	0,	0,	0,	0,	0.0396000000000001,	0.2718,	1.1748,	63,	29
+1990-11-30,	0.454159420289855,	2.55813068598232,	5.63267119803363,	0,	0,	18.933,	0,	4.47671428571429,	0,	0,	0,	0,	0,	0,	0,	0,	0,	22,	69
+1991-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1991-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1991-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1991-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1992-02-29,	0.144870967741935,	0.267355162276136,	1.84547094868854,	0.173,	0,	1.048,	0,	0.350857142857143,	0,	0,	0,	0,	0,	0.026,	0.0720000000000003,	0.211,	0.476,	60,	31
+1992-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1992-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1992-11-30,	0.717541666666667,	1.87653429350762,	2.61522693479954,	0.24775,	0,	7.384,	0,	2.39685714285714,	0,	0,	0,	0,	0,	0.1044,	0.1347,	0.368,	1.4319,	67,	24
+1993-02-28,	0,	0,	NA,	0,	0,	0,	0,	0.00457142857142857,	0,	0,	0,	0,	0,	0,	0,	0,	0,	77,	13
+1993-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1993-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1993-11-30,	4.99218518518519,	14.0297615173466,	2.81034476825525,	1.8955,	0,	70.75,	0.00842857142857143,	17.7558571428571,	0,	0.0136,	0.1436,	0.3536,	0.635,	1.0814,	1.5752,	2.9498,	11.2318,	64,	27
+1994-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1994-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1994-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1994-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1995-02-28,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	67,	23
+1995-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1995-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1995-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1996-02-29,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	23,	68
+1996-05-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	92
+1996-08-31,	0.408239130434783,	0.783666886082405,	1.91962707065289,	0.49775,	0,	4.457,	0,	2.229,	0,	0,	0,	0,	0,	0.1238,	0.3047,	0.648,	1.2308,	0,	92
+1996-11-30,	0.136318681318681,	0.682073144971692,	5.00351924163031,	0,	0,	5.886,	0,	1.61271428571429,	0,	0,	0,	0,	0,	0,	0,	0,	0.095,	0,	91
+1997-02-28,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	67,	23
+1997-05-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	92
+1997-08-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	63,	29
+1997-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1998-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1998-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1998-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1998-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1999-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1999-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1999-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1999-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2000-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2000-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2000-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2000-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2001-02-28,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	71,	19
+2001-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2001-08-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	23,	69
+2001-11-30,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	28,	63
+2002-02-28,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	12,	78
+2002-05-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	5,	87
+2002-08-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	92
+2002-11-30,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	20,	71
+2003-02-28,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	30,	60
+2003-05-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	38,	54
+2003-08-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	2,	90
+2003-11-30,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	7,	84
+2004-02-29,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	5,	86
+2004-05-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	92
+2004-08-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	92
+2004-11-30,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91
+2005-02-28,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	90
+2005-05-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	30,	62
+2005-08-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	92
+2005-11-30,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91
+2006-02-28,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	31,	59
+2006-05-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	92
+2006-08-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	64,	28
+2006-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2007-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+2007-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2007-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2007-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2008-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2008-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2008-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2008-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2009-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+2009-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2009-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2009-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2010-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+2010-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2010-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2010-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2011-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+2011-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2011-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2011-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2012-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2012-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2012-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2012-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2013-02-28,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	59,	31
+2013-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2013-08-31,	0,	0,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	86,	6
+2013-11-30,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91
+2014-02-28,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	90
+2014-05-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	92
+2014-08-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	92
+2014-11-30,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91
+2015-02-28,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	71,	19
+2015-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2015-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2015-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0

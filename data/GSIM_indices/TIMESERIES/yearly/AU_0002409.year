@@ -1,0 +1,26 @@
+##################################################
+# 
+# YEARLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0002409       : [-]
+# river     : BEACON           : [-]
+# station   : AT SCOTSMAN ROAD : [-]
+# country   : AU               : [-]
+# latitude  : -30.3296         : [deg]
+# longitude : 117.7713         : [deg]
+# altitude  :                  : [m]
+# area      :                  : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"GINI",	"CT",	"DOYMIN",	"DOYMAX",	"DOYMIN7",	"DOYMAX7",	"n.missing",	"n.available"
+2005-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+2006-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+2007-12-31,	0.00363829787234043,	0.00205812844398786,	0.565684426125319,	0.003,	0,	0.008,	0.000714285714285714,	0.00642857142857143,	0.001,	0.002,	0.002,	0.0034,	0.004,	0.004,	0.0042,	0.005,	0.006,	0.312554435734727,	38,	12,	35,	17,	37,	318,	47
+2008-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0

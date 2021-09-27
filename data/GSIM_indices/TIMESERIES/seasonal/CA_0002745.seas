@@ -1,0 +1,66 @@
+##################################################
+# 
+# SEASONAL GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : CA_0002745        : [-]
+# river     : AXTON EAST DITCH  : [-]
+# station   : NEAR SOUTH FORK   : [-]
+# country   : CA                : [-]
+# latitude  : 49.5800018310547  : [deg]
+# longitude : -108.738891601562 : [deg]
+# altitude  :                   : [m]
+# area      :                   : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"n.missing",	"n.available"
+1914-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1914-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1914-08-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91,	1
+1914-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1915-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1915-05-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91,	1
+1915-08-31,	0,	0,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	90,	2
+1915-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1916-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1916-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1916-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1916-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1917-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1917-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1917-08-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91,	1
+1917-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1918-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1918-05-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91,	1
+1918-08-31,	0.00600000005215405,	0.00848528144799554,	1.4142135623731,	0.00600000005215405,	0,	0.0120000001043081,	NA,	NA,	0.00120000001043081,	0.00240000002086162,	0.00360000003129243,	0.00480000004172324,	0.00600000005215405,	0.00720000006258486,	0.00840000007301567,	0.00960000008344648,	0.0108000000938773,	90,	2
+1918-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1919-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1919-05-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91,	1
+1919-08-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91,	1
+1919-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1920-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1920-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1920-08-31,	0.0190833335897575,	0.0143365923771996,	0.751262472553244,	0.0190000012516975,	0,	0.0480000004172325,	0.0181428573227354,	0.0195714288524219,	0.00720000015571714,	0.00899999961256981,	0.00899999961256981,	0.0122000001370907,	0.017000000923872,	0.017000000923872,	0.0247000008821487,	0.0280000008642673,	0.038799999281764,	80,	12
+1920-11-30,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	90,	1
+1921-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1921-05-31,	0,	0,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	90,	2
+1921-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1921-11-30,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	90,	1
+1922-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1922-05-31,	0,	0,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	90,	2
+1922-08-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91,	1
+1922-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1923-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	90,	0
+1923-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+1923-08-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91,	1
+1923-11-30,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	90,	1
+1924-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+1924-05-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91,	1
+1924-08-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	91,	1
+1924-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0

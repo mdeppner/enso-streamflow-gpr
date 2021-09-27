@@ -1,0 +1,34 @@
+##################################################
+# 
+# MONTHLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : BR_0001082 : [-]
+# river     :            : [-]
+# station   :            : [-]
+# country   : BR         : [-]
+# latitude  : -11.3575   : [deg]
+# longitude : -41.3817   : [deg]
+# altitude  : 352        : [m]
+# area      : 7470       : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"n.missing",	"n.available"
+2015-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2015-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+2015-03-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	31
+2015-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2015-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2015-06-30,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	30
+2015-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2015-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2015-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2015-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2015-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2015-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0

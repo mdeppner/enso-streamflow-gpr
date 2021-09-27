@@ -1,0 +1,46 @@
+##################################################
+# 
+# MONTHLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0002164           : [-]
+# river     : FENCE ROAD CATCHMENT : [-]
+# station   : AT DAVIDSON'S        : [-]
+# country   : AU                   : [-]
+# latitude  : -33.075238947        : [deg]
+# longitude : 117.925784653        : [deg]
+# altitude  :                      : [m]
+# area      :                      : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"n.missing",	"n.available"
+2001-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2001-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+2001-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2001-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2001-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2001-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2001-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2001-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2001-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2001-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2001-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2001-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2002-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2002-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+2002-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2002-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2002-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2002-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2002-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2002-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2002-09-30,	0,	0,	NA,	0,	0,	0,	NA,	NA,	28,	2
+2002-10-31,	0,	0,	NA,	0,	0,	0,	0,	0,	15,	16
+2002-11-30,	0,	0,	NA,	0,	0,	0,	0,	0,	5,	25
+2002-12-31,	0,	0,	NA,	0,	0,	0,	0,	0,	26,	5

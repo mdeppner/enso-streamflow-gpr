@@ -1,0 +1,34 @@
+##################################################
+# 
+# MONTHLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : CA_0002037        : [-]
+# river     : CONNELLY CREEK    : [-]
+# station   : NEAR LUNDBRECK    : [-]
+# country   : CA                : [-]
+# latitude  : 49.5972213745117  : [deg]
+# longitude : -114.137496948242 : [deg]
+# altitude  :                   : [m]
+# area      : 51.5              : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"n.missing",	"n.available"
+1909-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1909-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+1909-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1909-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1909-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1909-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1909-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1909-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1909-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1909-10-31,	0.0240000002086163,	0,	0,	0,	0.0240000002086163,	0.0240000002086163,	NA,	NA,	26,	5
+1909-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1909-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0

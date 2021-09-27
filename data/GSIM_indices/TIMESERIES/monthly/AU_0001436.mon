@@ -1,0 +1,82 @@
+##################################################
+# 
+# MONTHLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0001436              : [-]
+# river     : MAIN CANAL              : [-]
+# station   : AT NARRANDERA REGULATOR : [-]
+# country   : AU                      : [-]
+# latitude  : -34.7567999999997       : [deg]
+# longitude : 146.5624                : [deg]
+# altitude  :                         : [m]
+# area      :                         : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"n.missing",	"n.available"
+1992-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1992-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	29,	0
+1992-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1992-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1992-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1992-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1992-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1992-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1992-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1992-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1992-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1992-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1993-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1993-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+1993-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1993-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1993-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1993-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1993-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1993-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1993-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1993-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1993-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1993-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1994-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1994-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+1994-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1994-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1994-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1994-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1994-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1994-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1994-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1994-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1994-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1994-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1995-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1995-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+1995-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1995-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1995-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1995-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1995-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1995-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1995-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1995-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1995-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1995-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1996-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1996-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	29,	0
+1996-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1996-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1996-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1996-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1996-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1996-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1996-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1996-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1996-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1996-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0

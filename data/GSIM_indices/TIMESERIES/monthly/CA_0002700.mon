@@ -1,0 +1,82 @@
+##################################################
+# 
+# MONTHLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : CA_0002700        : [-]
+# river     : SMALL DITCH       : [-]
+# station   : NEAR CYPRESS      : [-]
+# country   : CA                : [-]
+# latitude  : 49.749439239502   : [deg]
+# longitude : -109.574722290039 : [deg]
+# altitude  :                   : [m]
+# area      :                   : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"n.missing",	"n.available"
+1916-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1916-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	29,	0
+1916-03-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	31
+1916-04-30,	0.0239000007510185,	0.0432226805390445,	1.80848030045365,	0.0450000017881393,	0,	0.136000007390976,	0,	0.0178571428571429,	10,	20
+1916-05-31,	0.055000000131818,	0.0864532638994875,	1.57187752167792,	0.0179999992251396,	0,	0.340000003576279,	NA,	NA,	18,	13
+1916-06-30,	0.0103181819008155,	0.0272543338576556,	2.64138916328868,	0,	0,	0.096000000834465,	0,	0.0485714290823256,	8,	22
+1916-07-31,	0.0124666665991147,	0.0395829406248737,	3.17510220636561,	0,	0,	0.170000001788139,	0,	0.0242857145411627,	1,	30
+1916-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1916-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1916-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1916-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1916-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1917-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1917-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+1917-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1917-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1917-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1917-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1917-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1917-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1917-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1917-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1917-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1917-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1918-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1918-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+1918-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1918-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1918-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1918-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1918-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1918-08-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	30,	1
+1918-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1918-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1918-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1918-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1919-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1919-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+1919-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1919-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1919-05-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	30,	1
+1919-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1919-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1919-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1919-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1919-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1919-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1919-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1920-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1920-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	29,	0
+1920-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1920-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1920-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1920-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1920-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1920-08-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	30,	1
+1920-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1920-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1920-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1920-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0

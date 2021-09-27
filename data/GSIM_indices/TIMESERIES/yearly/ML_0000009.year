@@ -1,0 +1,32 @@
+##################################################
+# 
+# YEARLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : ML_0000009 : [-]
+# river     : FALEME     : [-]
+# station   : FADOUGOU   : [-]
+# country   : ML         : [-]
+# latitude  : 12.31      : [deg]
+# longitude : -11.23     : [deg]
+# altitude  :            : [m]
+# area      : 9300       : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"GINI",	"CT",	"DOYMIN",	"DOYMAX",	"DOYMIN7",	"DOYMAX7",	"n.missing",	"n.available"
+1981-12-31,	51.7560240963855,	102.423108554747,	1.9789601373553,	28.5,	0,	653,	0,	447.571428571429,	0,	0,	0,	3,	9,	12,	21.4,	46.8,	205.6,	0.788733646101604,	244,	48,	251,	54,	256,	33,	332
+1982-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1983-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1984-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1985-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1986-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1987-12-31,	37.9014925373134,	57.2738392500129,	1.51112358421315,	53,	0,	196,	0,	176.571428571429,	0,	0,	0,	1.59999999999999,	6,	12,	35,	100,	144.8,	0.721989328775513,	263,	39,	243,	45,	277,	30,	335
+1988-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1989-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1990-12-31,	54.2575757575758,	74.7434742871408,	1.37756752386241,	93,	0,	453,	0,	296.857142857143,	0,	0,	6,	9.59999999999999,	14,	26.4,	79.3,	117.8,	163.1,	0.664859654912713,	244,	94,	252,	100,	255,	35,	330

@@ -1,0 +1,30 @@
+##################################################
+# 
+# YEARLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : BR_0001084    : [-]
+# river     : RIACHO GRANDE : [-]
+# station   : LAJEDO        : [-]
+# country   : BR            : [-]
+# latitude  : -9.2861       : [deg]
+# longitude : -41.5244      : [deg]
+# altitude  :               : [m]
+# area      : 1080          : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"GINI",	"CT",	"DOYMIN",	"DOYMAX",	"DOYMIN7",	"DOYMAX7",	"n.missing",	"n.available"
+2007-12-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	NA,	NA,	1,	1,	7,	7,	334,	31
+2008-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+2009-12-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	NA,	NA,	152,	152,	158,	158,	335,	30
+2010-12-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	NA,	NA,	60,	60,	66,	66,	304,	61
+2011-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+2012-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+2013-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+2014-12-31,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	NA,	NA,	213,	213,	219,	219,	334,	31

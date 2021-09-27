@@ -1,0 +1,58 @@
+##################################################
+# 
+# MONTHLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0002866        : [-]
+# river     : FINKE RIVER       : [-]
+# station   : AT RAILWAY BRIDGE : [-]
+# country   : AU                : [-]
+# latitude  : -24.929436578     : [deg]
+# longitude : 133.640131242     : [deg]
+# altitude  :                   : [m]
+# area      :                   : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"n.missing",	"n.available"
+2014-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2014-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+2014-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2014-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2014-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2014-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2014-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2014-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2014-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2014-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2014-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2014-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2015-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2015-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+2015-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2015-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2015-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2015-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2015-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2015-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2015-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2015-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2015-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2015-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2016-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2016-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	29,	0
+2016-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2016-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2016-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2016-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2016-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2016-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2016-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2016-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2016-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2016-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0

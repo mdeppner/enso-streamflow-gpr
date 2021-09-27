@@ -1,0 +1,46 @@
+##################################################
+# 
+# MONTHLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0002045      : [-]
+# river     : KENT RIVER TRIB : [-]
+# station   : AT MARKS ROAD   : [-]
+# country   : AU              : [-]
+# latitude  : -34.506921098   : [deg]
+# longitude : 117.200760982   : [deg]
+# altitude  :                 : [m]
+# area      :                 : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"n.missing",	"n.available"
+1999-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1999-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+1999-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1999-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1999-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1999-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1999-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1999-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1999-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1999-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+1999-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+1999-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2000-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2000-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	29,	0
+2000-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2000-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2000-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2000-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2000-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2000-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2000-09-30,	0.00477777777777778,	0.001092906420717,	0.228747855498907,	0.001,	0.004,	0.007,	0.00428571428571429,	0.005,	21,	9
+2000-10-31,	0.00118181818181818,	0.00122031860150433,	1.03257727819597,	0.002,	0,	0.003,	0,	0.004,	9,	22
+2000-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2000-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0

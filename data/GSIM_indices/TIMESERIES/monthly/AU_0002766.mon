@@ -1,0 +1,70 @@
+##################################################
+# 
+# MONTHLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0002766                     : [-]
+# river     : DISHERS CREEK DRAINAGE OUTFALL : [-]
+# station   : AT DISHERS CREEK DRAIN BASIN   : [-]
+# country   : AU                             : [-]
+# latitude  : -34.2284999999996              : [deg]
+# longitude : 140.7103                       : [deg]
+# altitude  :                                : [m]
+# area      :                                : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"n.missing",	"n.available"
+2005-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2005-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+2005-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2005-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2005-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2005-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2005-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2005-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2005-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2005-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2005-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2005-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2006-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2006-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+2006-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2006-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2006-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2006-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2006-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2006-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2006-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2006-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2006-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2006-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2007-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2007-02-28,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	28,	0
+2007-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2007-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2007-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2007-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2007-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2007-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2007-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2007-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2007-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2007-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2008-01-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2008-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	29,	0
+2008-03-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2008-04-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2008-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2008-06-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2008-07-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2008-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2008-09-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2008-10-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0
+2008-11-30,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	30,	0
+2008-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	31,	0

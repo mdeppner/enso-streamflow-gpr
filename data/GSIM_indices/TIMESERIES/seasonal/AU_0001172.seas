@@ -1,0 +1,26 @@
+##################################################
+# 
+# SEASONAL GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0001172                  : [-]
+# river     : PIPE BYPASS                 : [-]
+# station   : AT GEMLEIGH MEADOWS STORAGE : [-]
+# country   : AU                          : [-]
+# latitude  : -36.78949692                : [deg]
+# longitude : 145.7226749                 : [deg]
+# altitude  :                             : [m]
+# area      :                             : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"n.missing",	"n.available"
+2006-02-28,	0,	0,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	72,	18
+2006-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2006-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2006-11-30,	0,	0,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	89,	2

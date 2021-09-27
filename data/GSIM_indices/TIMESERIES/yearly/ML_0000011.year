@@ -1,0 +1,32 @@
+##################################################
+# 
+# YEARLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : ML_0000011                   : [-]
+# river     : BAFING (TRIB. ATUI, SENEGAL) : [-]
+# station   : BAFING MAKANA                : [-]
+# country   : ML                           : [-]
+# latitude  : 12.33                        : [deg]
+# longitude : -10.16                       : [deg]
+# altitude  :                              : [m]
+# area      : 21700                        : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"GINI",	"CT",	"DOYMIN",	"DOYMAX",	"DOYMIN7",	"DOYMAX7",	"n.missing",	"n.available"
+1981-12-31,	149.991124260355,	187.226223255976,	1.2482486825753,	150,	4,	1160,	5.71428571428571,	1028.71428571429,	19.4,	27,	37,	58,	81,	125,	162.9,	213.4,	354.3,	0.559257967600291,	235,	116,	232,	89,	234,	27,	338
+1982-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1983-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1984-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1985-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1986-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1987-12-31,	181.393767705382,	239.450817368246,	1.32006088410468,	242,	0,	909,	0,	774.428571428571,	0,	8.40000000000001,	22.6,	40,	71,	86.2,	158.8,	431.6,	608.8,	0.65038435102562,	256,	110,	269,	116,	270,	12,	353
+1988-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1989-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1990-12-31,	190.622159090909,	257.335573853002,	1.34997722762272,	365.75,	0,	991,	0,	889.857142857143,	0,	3,	11,	24.4,	46,	104.8,	216.7,	444,	606.9,	0.67073698937391,	244,	109,	226,	115,	229,	13,	352

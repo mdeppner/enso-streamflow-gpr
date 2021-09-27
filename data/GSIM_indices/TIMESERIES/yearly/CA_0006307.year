@@ -1,0 +1,30 @@
+##################################################
+# 
+# YEARLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : CA_0006307        : [-]
+# river     : BROWN DITCH       : [-]
+# station   : NEAR DIVIDE       : [-]
+# country   : CA                : [-]
+# latitude  : 49.1599998474121  : [deg]
+# longitude : -109.137222290039 : [deg]
+# altitude  :                   : [m]
+# area      :                   : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"GINI",	"CT",	"DOYMIN",	"DOYMAX",	"DOYMIN7",	"DOYMAX7",	"n.missing",	"n.available"
+1917-12-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	NA,	NA,	258,	258,	NA,	NA,	364,	1
+1918-12-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	NA,	NA,	232,	232,	NA,	NA,	364,	1
+1919-12-31,	0,	NA,	NA,	0,	0,	0,	NA,	NA,	0,	0,	0,	0,	0,	0,	0,	0,	0,	NA,	NA,	176,	176,	NA,	NA,	364,	1
+1920-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1921-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1922-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1923-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1924-12-31,	0.000302040824020395,	0.0025732299828932,	8.51947742904927,	0,	0,	0.0280000008642673,	0,	0.0105714288407138,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0.987644787629516,	94,	61,	94,	67,	96,	121,	245

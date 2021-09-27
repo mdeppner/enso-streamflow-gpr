@@ -1,0 +1,52 @@
+##################################################
+# 
+# YEARLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : NG_0000015           : [-]
+# river     : KANO (TRIB. HADEJIA) : [-]
+# station   : TIGA DAM             : [-]
+# country   : NG                   : [-]
+# latitude  : 11.4683              : [deg]
+# longitude : 8.4075               : [deg]
+# altitude  : 497                  : [m]
+# area      : 6553                 : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"GINI",	"CT",	"DOYMIN",	"DOYMAX",	"DOYMIN7",	"DOYMAX7",	"n.missing",	"n.available"
+1970-12-31,	79.0098876404494,	125.209039181776,	1.58472620226427,	99.833,	0.3,	663.088,	0.358714285714286,	394.105857142857,	0.7814,	1.6852,	4.2795,	8.0834,	27.3475,	41.8788,	75.0744,	121.4336,	263.8649,	0.701982793228119,	240,	365,	221,	365,	263,	187,	178
+1971-12-31,	28.6408219178082,	65.4114212361288,	2.28385279667751,	17.803,	0,	531.275,	0,	266.656571428571,	0.029,	0.2186,	0.648,	1.383,	1.938,	6.566,	12.884,	26.3614,	98.3342000000002,	0.810505974895389,	236,	73,	223,	79,	226,	0,	365
+1972-12-31,	19.5073461538462,	42.0749049692234,	2.15687488382051,	16.748,	0,	317.89,	0,	169.680285714286,	0.0247,	0.126,	0.1885,	0.5082,	4.0545,	8.0294,	12.7853,	21.7566,	57.258,	0.78298472585228,	233,	84,	227,	90,	227,	54,	312
+1973-12-31,	25.5823025830258,	64.2365500372902,	2.51097608703573,	18.645,	0,	570.601,	0,	247.229857142857,	0,	0,	0,	0.014,	1.88,	7.397,	14.385,	28.487,	63.33,	0.822113743082087,	224,	4,	228,	10,	232,	94,	271
+1974-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1975-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1976-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1977-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1978-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1979-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1980-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1981-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1982-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1983-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1984-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1985-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1986-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1987-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1988-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1989-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1990-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1991-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1992-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1993-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+1994-12-31,	16.85,	0,	0,	0,	16.85,	16.85,	NA,	NA,	16.85,	16.85,	16.85,	16.85,	16.85,	16.85,	16.85,	16.85,	16.85,	0,	3,	1,	1,	NA,	NA,	361,	4
+1995-12-31,	32,	0,	0,	0,	32,	32,	NA,	NA,	32,	32,	32,	32,	32,	32,	32,	32,	32,	0,	312,	310,	310,	NA,	NA,	361,	4
+1996-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+1997-12-31,	19.5230769230769,	13.8020622762297,	0.706961424708377,	26.6,	5.2,	31.8,	9,	31.8,	5.2,	5.2,	5.2,	5.2,	31.8,	31.8,	31.8,	31.8,	31.8,	0.338607019458083,	168,	172,	165,	177,	171,	352,	13
+1998-12-31,	4.65909090909091,	3.73970448169232,	0.802668278997376,	6.5,	0,	9.5,	0,	8.21428571428571,	0,	0,	0,	6.2,	6.5,	6.5,	6.5,	8.1,	8.5,	0.417073170731707,	236,	274,	231,	280,	237,	343,	22
+1999-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0

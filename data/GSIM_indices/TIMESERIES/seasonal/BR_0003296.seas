@@ -1,0 +1,26 @@
+##################################################
+# 
+# SEASONAL GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : BR_0003296                           : [-]
+# river     : ARROIO CANDIOTA                      : [-]
+# station   : UHE SEIVAL - ARROIO CANDIOTA JUSANTE : [-]
+# country   : BR                                   : [-]
+# latitude  : -31.55                               : [deg]
+# longitude : -53.6667                             : [deg]
+# altitude  :                                      : [m]
+# area      : 300                                  : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"n.missing",	"n.available"
+2008-02-29,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	91,	0
+2008-05-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2008-08-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	92,	0
+2008-11-30,	13.8051612903226,	43.5676211142685,	3.15589366889972,	1.1225,	0.6575,	198.915,	0.976785714285714,	51.7778571428571,	0.81,	0.835,	0.91,	1.0525,	1.2125,	1.895,	1.945,	2.02,	13.48,	60,	31

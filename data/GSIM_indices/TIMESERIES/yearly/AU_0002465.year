@@ -1,0 +1,29 @@
+##################################################
+# 
+# YEARLY GSIM INDICES
+# 
+# created on: 2018-03-09
+# created by: Lukas Gudmundsson
+# 
+# ------------------------------------------------
+# META DATA:
+# ------------------------------------------------
+# gsim.no   : AU_0002465              : [-]
+# river     : LIEGE STREET WETLANDS   : [-]
+# station   : AT LIEGE STREET OUTFLOW : [-]
+# country   : AU                      : [-]
+# latitude  : -32.022321261           : [deg]
+# longitude : 115.934471819           : [deg]
+# altitude  :                         : [m]
+# area      :                         : [km2]
+# ------------------------------------------------
+# 
+##################################################
+"date",	"MEAN",	"SD",	"CV",	"IQR",	"MIN",	"MAX",	"MIN7",	"MAX7",	"P10",	"P20",	"P30",	"P40",	"P50",	"P60",	"P70",	"P80",	"P90",	"GINI",	"CT",	"DOYMIN",	"DOYMAX",	"DOYMIN7",	"DOYMAX7",	"n.missing",	"n.available"
+2005-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+2006-12-31,	0.0121837606837607,	0.00681550186155689,	0.559392295897689,	0.00775,	0,	0.032,	0,	0.0274285714285714,	0.005,	0.008,	0.009,	0.01,	0.011,	0.012,	0.0141,	0.018,	0.022,	0.305457374380559,	179,	17,	216,	31,	293,	131,	234
+2007-12-31,	0.00374774774774775,	0.00411310205533591,	1.09748636572665,	0.0045,	0,	0.019,	0,	0.00971428571428571,	0,	0.001,	0.001,	0.002,	0.002,	0.003,	0.00400000000000001,	0.007,	0.009,	0.549246361746362,	56,	76,	122,	82,	9,	254,	111
+2008-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	366,	0
+2009-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+2010-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
+2011-12-31,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	NA,	365,	0
